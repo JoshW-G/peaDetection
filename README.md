@@ -2,7 +2,8 @@ Author: Joshua Gardner
 Date: 28/04/2020
 
 This is the code to my Dissertation project: "Detecting specific foods in MRI scans using TensorFlow and RetinaNet implemented in Python".
-
+Note: this project was reimplemented into a published paper "Recognising Specific Foods in MRI Scans Using CNN and Visualisation" presented at CGVC 2020 avaialble here
+https://diglib.eg.org/handle/10.2312/cgvc20201145
 ***IMPORTANT***
 Required/Versions used:
 
